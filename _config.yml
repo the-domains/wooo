@@ -1,0 +1,28 @@
+name: wooo
+favicon: null
+layout_spectrum: 0.07784538390114903
+typography_spectrum: 0.4729688707739115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4458330061752349
+  lightness: 0.8072027049493045
+  saturation: 0.9061062640976161
+  rhythmicContrast: 0.3430644585750997
+purpose: []
