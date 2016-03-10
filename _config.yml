@@ -1,6 +1,6 @@
 name: wooo
 favicon: null
-layout_spectrum: 0.07784538390114903
+layout_spectrum: 0.27592
 typography_spectrum: 0.4729688707739115
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#bbc2cc'
-    - '#a4abb1'
-    - '#efe1d8'
-    - '#757b7e'
-    - '#8e959d'
+    - '#dbdbdb'
+    - '#bea56c'
+    - '#985e30'
+    - '#77494c'
+    - '#858378'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
