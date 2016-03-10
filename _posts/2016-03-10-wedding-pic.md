@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: wedding
-datePublished: '2016-03-10T02:54:07.954Z'
-dateModified: '2016-03-10T02:53:56.985Z'
+datePublished: '2016-03-10T02:59:54.099Z'
+dateModified: '2016-03-10T02:59:14.265Z'
 title: wedding pic
 author: []
 sourcePath: _posts/2016-03-10-wedding-pic.md
@@ -22,7 +22,6 @@ url: wedding-pic/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78147b4-261d-4153-8f6e-c33461e4b6b4.jpg)
-
 wedding
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a48abc83-3fec-4562-a093-b278fc170923.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fdbcc9b00e859eed960e0f84d4d81fd2eba596c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db0788415ba223b0b5610a69e722ac3a350571c5.jpg)
