@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: wedding from past
-datePublished: '2016-04-28T14:40:00.644Z'
-dateModified: '2016-04-28T14:37:20.583Z'
+datePublished: '2016-04-28T15:08:46.552Z'
+dateModified: '2016-04-28T15:07:31.975Z'
 title: ''
 author:
   - name: ''
@@ -25,5 +25,5 @@ _type: Article
 
 ---
 wedding from past
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fdbcc9b00e859eed960e0f84d4d81fd2eba596c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9b8959ce8fa6922b1e88b3e5fb1abe51a76ae11.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db0788415ba223b0b5610a69e722ac3a350571c5.jpg)
