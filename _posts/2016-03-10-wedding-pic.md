@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: wedding from past
-datePublished: '2016-04-28T14:37:13.326Z'
-dateModified: '2016-04-28T14:36:51.757Z'
+datePublished: '2016-04-28T14:40:00.644Z'
+dateModified: '2016-04-28T14:37:20.583Z'
 title: ''
 author:
   - name: ''
