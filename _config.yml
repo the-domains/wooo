@@ -1,20 +1,4 @@
-name: wooo
-favicon: null
-layout_spectrum: 0.83823
 typography_spectrum: 0.4729688707739115
-title: let is be a dairy
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d7d7d7'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.83823
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: wooo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Tlet Ibe a dairy
 purpose: []
